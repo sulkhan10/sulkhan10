@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**sulkhan10/sulkhan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://i.imgur.com/tYLMF1k.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm S. G. Sakti ! 👋
+
+Hi guys, Hope you guys having a nice day
+
+Let me introduce myself !!!
+## 🚀 About Me
+
+
+I am a software engineer open for freelance project, hit the DM for inquiry, Thanks 
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, React, React Native etc.
+
